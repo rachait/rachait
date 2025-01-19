@@ -14,7 +14,7 @@
 ## 💻 Technologies & Tools:
 <div align="center">
   <!-- Skills GIF Icon -->
-  <img src="https://cdn.dribbble.com/users/2208826/screenshots/6729642/ezgif.com-optimize.gif" alt="AI Tech" width="80" height="80" />
+  <img src="https://cdn.dribbble.com/users/1373613/screenshots/5436349/plexus____-.gif" alt="AI Tech" width="80" height="80" />
   <br>
 </div>
 <div align="center">
