@@ -2,10 +2,6 @@
 
 ---
 
-- 📫 How to reach me **rachaittalwar159@gmail.com**
-
----
-
 ## 🌐 Let's Connect:
 <div align="center">
   <a href="https://instagram.com/https://www.instagram.com/rachait_talwar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
