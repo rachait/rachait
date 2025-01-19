@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Rachait Talwar</h1>
+<h1 style="font-size: 200;">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20views&color=0e75b6&style=flat" alt="rachait" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -18,3 +18,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&locale=en" alt="rachait" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&" alt="rachait" /></p>
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="Profile Views" />
+</div>
+
+---
