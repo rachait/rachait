@@ -1,9 +1,19 @@
 <h1 style="font-size: 200;">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20views&color=0e75b6&style=flat" alt="rachait" /> </p>
 
-
+---
 
 - 📫 How to reach me **rachaittalwar159@gmail.com**
+
+---
+
+## 🌐 Let's Connect:
+<div align="center">
+  <a href="https://instagram.com/https://www.instagram.com/rachait_talwar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/rachait-talwar-7370671b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/rachait/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
