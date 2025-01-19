@@ -1,7 +1,7 @@
 <h1 style="font-size: 200;">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20views&color=0e75b6&style=flat" alt="rachait" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 📫 How to reach me **rachaittalwar159@gmail.com**
 
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
