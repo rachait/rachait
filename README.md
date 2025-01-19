@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachait&hide_progress=true&theme=tokyonight" alt="Top Languages" style="height: 200px;" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&theme=tokyonight" alt="Streak Stats" style="height: 200px /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&theme=tokyonight" alt="Streak Stats" style="height: 200px />
 </div>
 
 ---
