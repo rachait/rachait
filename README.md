@@ -19,13 +19,9 @@
 ---
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachait&show_icons=true&locale=en&layout=compact" alt="rachait" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&locale=en" alt="rachait" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&" alt="rachait" /></p>
-
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&hide_progress=true&theme=tokyonight" alt="Top Languages" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachait&theme=tokyonight" alt="Streak Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachait&hide_progress=true&theme=tokyonight" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&theme=tokyonight" alt="Streak Stats" style="height: 200px;" />
 </div>
 
 ---
