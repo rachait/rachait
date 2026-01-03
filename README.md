@@ -1,79 +1,114 @@
-# Hi 👋, I'm Rachait Talwar
+<h1 align="center">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
 
-🚀 Passionate Software Engineer | DevOps | AI & ML | Deep Learning | Cloud | Full-Stack (React + FastAPI)
+<p align="center">
+🚀 Software Developer | DevOps & Cloud Enthusiast | AI & ML Explorer
+</p>
 
-🔹 I love building scalable systems, intelligent applications, and automation pipelines  
-🔹 Exploring MLOps, Cloud-Native Apps, and AI-Driven Platforms  
-🔹 Open to internships, collaborations, and exciting projects
+<p align="center">
+I love building scalable systems, automating workflows, and working across full-stack, DevOps, and AI-driven projects.  
+Always learning, improving, and solving real-world problems through technology.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌐 Connect With Me
 
-### 🔹 Programming & Scripting
-- Python ▪ JavaScript ▪ TypeScript ▪ Bash ▪ C/C++
+<p align="center">
+  <a href="https://www.instagram.com/rachait_talwar/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rachait-talwar-7370671b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rachait/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-### 🔹 Web / Backend
-- FastAPI ▪ Flask ▪ Node.js ▪ Express.js  
-- REST APIs ▪ JWT Auth ▪ WebSockets
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachaittalwar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🏆 GitHub Activity & Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rachaittalwar?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/rachaittalwar?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://img.shields.io/github/repo-count/rachaittalwar?label=Public%20Repos&color=0E75B6" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rachaittalwar&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rachaittalwar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaittalwar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🔹 Programming & Core
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
+</p>
 
 ### 🔹 Frontend
-- React.js ▪ Next.js ▪ Vite ▪ Redux ▪ TailwindCSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+</p>
+
+### 🔹 Backend / APIs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="45" />
+</p>
 
 ### 🔹 Databases
-- PostgreSQL ▪ MySQL ▪ MongoDB ▪ SQLite ▪ Redis
-
-### 🔹 DevOps & Cloud
-- Docker ▪ Kubernetes ▪ Helm  
-- GitHub Actions ▪ Jenkins ▪ CI/CD  
-- AWS (EC2, S3, RDS, Lambda, CloudWatch)  
-- GCP ▪ Azure ▪ Terraform ▪ Linux
-
-### 🔹 AI / ML / DL
-- NumPy ▪ Pandas ▪ Scikit-Learn  
-- TensorFlow ▪ Keras ▪ PyTorch  
-- NLP ▪ LLMs ▪ Computer Vision  
-- MLOps ▪ Model Deployment ▪ Experiment Tracking
-
-### 🔹 Tools & Other Tech
-- Postman ▪ Swagger ▪ GraphQL  
-- RabbitMQ ▪ Kafka (basics)  
-- Nginx ▪ Prometheus ▪ Grafana  
-- Kubernetes Dashboard ▪ ArgoCD (learning)
-
----
-
-## 📊 GitHub Profile Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachaittalwar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachaittalwar&theme=tokyonight" height="160" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
 </p>
 
+### 🔹 DevOps, Cloud & CI/CD
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaittalwar&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" />
+</p>
+
+### 🔹 AI / ML / Deep Learning
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements & Repository Stats
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachaittalwar&theme=tokyonight&no-frame=true&margin-w=10" />
+✨ Always open to collaboration, learning, and exciting tech opportunities ✨
 </p>
-
-### 📌 Developer Highlights
-- 🔹 **Public Repositories:** ![Repos](https://komarev.com/ghpvc/?username=rachaittalwar&label=Public%20Repos&color=0e75b6&style=flat)
-- 🔹 **Contributions & Activity:** Strong commit history & project involvement
-- 🔹 **Projects Across:** DevOps ▪ AI/ML ▪ Web ▪ Cloud ▪ Automation
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 Portfolio / Projects: *(add link if available)*
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
-
-⭐ If you like my work — feel free to star my repositories and connect!
-
