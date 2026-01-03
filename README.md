@@ -1,66 +1,79 @@
-<h1 align="center">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
+# Hi 👋, I'm Rachait Talwar
+
+🚀 Passionate Software Engineer | DevOps | AI & ML | Deep Learning | Cloud | Full-Stack (React + FastAPI)
+
+🔹 I love building scalable systems, intelligent applications, and automation pipelines  
+🔹 Exploring MLOps, Cloud-Native Apps, and AI-Driven Platforms  
+🔹 Open to internships, collaborations, and exciting projects
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🔹 Programming & Scripting
+- Python ▪ JavaScript ▪ TypeScript ▪ Bash ▪ C/C++
+
+### 🔹 Web / Backend
+- FastAPI ▪ Flask ▪ Node.js ▪ Express.js  
+- REST APIs ▪ JWT Auth ▪ WebSockets
+
+### 🔹 Frontend
+- React.js ▪ Next.js ▪ Vite ▪ Redux ▪ TailwindCSS
+
+### 🔹 Databases
+- PostgreSQL ▪ MySQL ▪ MongoDB ▪ SQLite ▪ Redis
+
+### 🔹 DevOps & Cloud
+- Docker ▪ Kubernetes ▪ Helm  
+- GitHub Actions ▪ Jenkins ▪ CI/CD  
+- AWS (EC2, S3, RDS, Lambda, CloudWatch)  
+- GCP ▪ Azure ▪ Terraform ▪ Linux
+
+### 🔹 AI / ML / DL
+- NumPy ▪ Pandas ▪ Scikit-Learn  
+- TensorFlow ▪ Keras ▪ PyTorch  
+- NLP ▪ LLMs ▪ Computer Vision  
+- MLOps ▪ Model Deployment ▪ Experiment Tracking
+
+### 🔹 Tools & Other Tech
+- Postman ▪ Swagger ▪ GraphQL  
+- RabbitMQ ▪ Kafka (basics)  
+- Nginx ▪ Prometheus ▪ Grafana  
+- Kubernetes Dashboard ▪ ArgoCD (learning)
+
+---
+
+## 📊 GitHub Profile Stats
 
 <p align="center">
-🚀 Software Developer | DevOps & Cloud Enthusiast | Data & AI Explorer
+  <img src="https://github-readme-stats.vercel.app/api?username=rachaittalwar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachaittalwar&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-I enjoy building scalable applications, automating workflows, and working across full-stack, DevOps, and data-driven projects.  
-Always learning, improving, and creating solutions that make an impact.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaittalwar&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Achievements & Repository Stats
 
 <p align="center">
-  <a href="https://www.instagram.com/rachait_talwar/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rachait-talwar-7370671b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/rachait/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rachaittalwar&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
+### 📌 Developer Highlights
+- 🔹 **Public Repositories:** ![Repos](https://komarev.com/ghpvc/?username=rachaittalwar&label=Public%20Repos&color=0e75b6&style=flat)
+- 🔹 **Contributions & Activity:** Strong commit history & project involvement
+- 🔹 **Projects Across:** DevOps ▪ AI/ML ▪ Web ▪ Cloud ▪ Automation
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-</p>
+- 🌐 Portfolio / Projects: *(add link if available)*
+- 💼 LinkedIn: *(add link)*
+- 📧 Email: *(add email)*
 
----
+⭐ If you like my work — feel free to star my repositories and connect!
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachait&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachait&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
