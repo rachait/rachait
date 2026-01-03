@@ -48,17 +48,6 @@ Always learning, improving, and creating solutions that make an impact.
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- 🚀 Built and deployed real-world projects using **AWS, Docker & CI/CD Automation**
-- 💡 Hands-on experience across **Full-Stack, DevOps and Data Analytics**
-- 🧠 Solved 150+ coding challenges on **LeetCode** improving DSA & logic skills
-- 📊 Worked on ML & analytics projects using **Python, Pandas, Sklearn & Seaborn**
-- 🤝 Contributed to collaborative & open-source projects
-- 🎯 Strong focus on **problem-solving, learning mindset & ownership**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
