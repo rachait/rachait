@@ -18,10 +18,10 @@ Always learning, improving, and creating solutions that make an impact.
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rachait-talwar-7370671b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/rachait/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Always learning, improving, and creating solutions that make an impact.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
@@ -48,20 +48,26 @@ Always learning, improving, and creating solutions that make an impact.
 
 ---
 
-## 🚀 What I Love Working On
+## 🏆 Achievements & Highlights
 
-- 🌩️ Cloud & DevOps (AWS, Docker, Automation)
-- ⚙️ Full-Stack Development
-- 📊 Data Analytics & Machine Learning
-- 🧩 Problem Solving & System Design
+- 🚀 Built and deployed real-world projects using **AWS, Docker & CI/CD Automation**
+- 💡 Hands-on experience across **Full-Stack, DevOps and Data Analytics**
+- 🧠 Solved 150+ coding challenges on **LeetCode** improving DSA & logic skills
+- 📊 Worked on ML & analytics projects using **Python, Pandas, Sklearn & Seaborn**
+- 🤝 Contributed to collaborative & open-source projects
+- 🎯 Strong focus on **problem-solving, learning mindset & ownership**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachait&layout=compact&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachait&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachait&layout=compact&theme=tokyonight" />
 </p>
 
 ---
