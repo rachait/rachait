@@ -28,9 +28,8 @@ Always learning, improving, and solving real-world problems through technology.
 ---
 
 ## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachaittalwar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -38,68 +37,55 @@ Always learning, improving, and solving real-world problems through technology.
 ## 🏆 GitHub Activity & Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/rachaittalwar?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/rachaittalwar?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  <img src="https://img.shields.io/github/repo-count/rachaittalwar?label=Public%20Repos&color=0E75B6" />
+  <img src="https://img.shields.io/github/followers/rachait?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/rachait?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://img.shields.io/github/repo-count/rachait?label=Public%20Repos&color=0E75B6" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rachaittalwar&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rachaittalwar&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rachait&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaittalwar&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachait&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🔹 Programming & Core
 <p align="center">
+  <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
-</p>
 
-### 🔹 Frontend
-<p align="center">
+  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-</p>
 
-### 🔹 Backend / APIs
-<p align="center">
+  <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="45" />
-</p>
 
-### 🔹 Databases
-<p align="center">
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
-</p>
 
-### 🔹 DevOps, Cloud & CI/CD
-<p align="center">
+  <!-- DevOps / Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" />
-</p>
 
-### 🔹 AI / ML / Deep Learning
-<p align="center">
+  <!-- AI / ML / DL -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
