@@ -44,7 +44,14 @@ Always learning, improving, and solving real-world problems through technology.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## � GitHub Snake Animation
+<p align="center">
+  <img src="https://github.com/rachait/rachait/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+## �🛠️ Tech Stack & Tools
 <p align="center">
 
 <!-- Programming -->
