@@ -1,27 +1,22 @@
-name: GitHub Snake Game
+name: Generate snake game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions:
-      contents: write
-
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
+      - uses: Sutil/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: 'blue'
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
