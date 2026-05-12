@@ -44,13 +44,6 @@ Always learning, improving, and solving real-world problems through technology.
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/rachait/rachait/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 <p align="center">
 
