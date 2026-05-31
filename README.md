@@ -1,92 +1,171 @@
-<h1 align="center">Hi 👋, I'm <strong>Rachait Talwar</strong></h1>
+<div align="center">
 
-<p align="center">
-🚀 Software Developer | DevOps & Cloud Enthusiast | AI & ML Explorer
-</p>
+```
+██████╗  █████╗  ██████╗██╗  ██╗ █████╗ ██╗████████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██║╚══██╔══╝
+██████╔╝███████║██║     ███████║███████║██║   ██║   
+██╔══██╗██╔══██║██║     ██╔══██║██╔══██║██║   ██║   
+██║  ██║██║  ██║╚██████╗██║  ██║██║  ██║██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝  
+                T A L W A R
+```
 
-<p align="center">
-I love building scalable systems, automating workflows, and working across full-stack, DevOps, and AI-driven projects.  
-Always learning, improving, and solving real-world problems through technology.
-</p>
+### `Software Engineer` · `DevOps & Cloud` · `AI/ML`
 
----
+*Building scalable systems · Automating everything · Shipping production-grade code*
 
-## 🤖 AI • ML • DevOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachait-talwar-7370671b0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rachait/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rachait_talwar/)
+[![Profile Views](https://komarev.com/ghpvc/?username=rachait&style=flat-square&color=00ff88&label=Profile+Views)](https://github.com/rachait)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="260"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/rachait_talwar/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rachait-talwar-7370671b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/rachait/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachait&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## `> whoami`
+
+```yaml
+name: Rachait Talwar
+role: Software Engineer
+focus:
+  - Distributed systems & scalable backend architecture
+  - Cloud infrastructure & DevOps automation (AWS, Docker, Kubernetes)
+  - AI/ML engineering and model integration
+  - Full-stack product development
+status: Open to opportunities
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="center">
+## `> ls ./tech-stack`
 
-<!-- Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+**Languages**
+```
+Python      ████████████ Core
+TypeScript  ██████████░░ Primary
+JavaScript  ██████████░░ Primary
+Bash        ████████░░░░ DevOps
+```
 
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+</td>
+<td valign="top" width="33%">
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
+**Infrastructure**
+```
+AWS         ████████████ Cloud
+Docker      ████████████ Containers
+Kubernetes  ████████░░░░ Orchestration
+Linux       ████████████ OS
+Git         ████████████ VCS
+```
 
-<!-- DevOps / Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+</td>
+<td valign="top" width="33%">
 
-<!-- AI / ML / DL -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" />
+**AI / ML**
+```
+PyTorch     ████████░░░░ DL
+TensorFlow  ████████░░░░ DL
+scikit-learn████████████ ML
+Pandas      ████████████ Data
+Seaborn     ██████░░░░░░ Viz
+```
 
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Frontend**
+```
+React + Vite  · HTML5 · CSS3
+```
+
+</td>
+<td valign="top">
+
+**Backend**
+```
+FastAPI · Node.js · Express
+```
+
+</td>
+<td valign="top">
+
+**Databases**
+```
+MySQL · MongoDB · SQLite
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-✨ Always open to collaboration, learning, and exciting tech opportunities ✨
-</p>
+## `> cat ./github-stats.json`
+
+<div align="center">
+
+![Rachait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachait&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachait&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
+
+</div>
+
+---
+
+## `> cat ./currently.log`
+
+```bash
+$ tail -f activity.log
+
+[LEARNING]   → Advanced Kubernetes patterns & service mesh
+[BUILDING]   → AI-powered automation pipelines
+[EXPLORING]  → LLM integration & RAG architectures
+[PRACTICING] → LeetCode (Data Structures & Algorithms)
+```
+
+---
+
+## `> grep -r "principles" ./engineering/`
+
+```python
+engineering_principles = [
+    "Ship working software, then make it elegant",
+    "Automate what can be automated",
+    "Design for failure — build resilient systems",
+    "Documentation is part of the code",
+    "Every bottleneck is an opportunity to learn",
+]
+```
+
+---
+
+## `> ./connect.sh`
+
+```bash
+$ ./connect.sh --message "Let's build something great"
+
+Channels available:
+  [1] LinkedIn  →  linkedin.com/in/rachait-talwar-7370671b0
+  [2] LeetCode  →  leetcode.com/u/rachait
+  [3] Instagram →  instagram.com/rachait_talwar
+
+Always open to:  collaboration · full-time roles · freelance · open source
+```
+
+<div align="center">
+
+---
+
+*`"First, solve the problem. Then, write the code."` — John Johnson*
+
+**Always learning · Always building · Always improving**
+
+</div>
